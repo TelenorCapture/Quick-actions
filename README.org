@@ -1,0 +1,3 @@
+#+title: Quick Actions
+
+This is just a prototype. Not much to see here :)

@@ -1,0 +1,6 @@
+^{:hot-reload-cljs false
+  :open-url        false}
+
+{:main          quick-actions.core
+ :optimizations :advanced
+ :output-to     "resources/public/main.js"}
